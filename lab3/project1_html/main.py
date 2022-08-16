@@ -5,6 +5,8 @@ You do not need to alter this Python file in Lab 3.
 Author: Luke Change (xcha011@aucklanduni.ac.nz) 
 Date: 23/07/2022
 """
+import flask as flask
+
 from flask import Flask, render_template
 
 
